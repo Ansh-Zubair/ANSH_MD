@@ -1,10 +1,10 @@
 </h1> 
-<p align="center">𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 
+<p align="center">𝔸ℕ𝕊ℍ 𝕄𝔻 
 
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+LUCKY+MD+BOT+CREATED+BY+FREDIE+EZRA+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+ANSH+MD+BOT+CREATED+BY+ANSH+KING+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
   
@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Ansh-Zubair/Ansh_md"><b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
